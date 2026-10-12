@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
   printf("Hello World");
-  printf("Hello Earth");
+  printf("Vishnu is  gay Hello Earth");
   return 0;
 }
